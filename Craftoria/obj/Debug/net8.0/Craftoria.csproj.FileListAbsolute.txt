@@ -1,0 +1,4 @@
+C:\Users\Jayson\OneDrive\Desktop\repos\Craftoria\Craftoria\obj\Debug\net8.0\Craftoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jayson\OneDrive\Desktop\repos\Craftoria\Craftoria\obj\Debug\net8.0\Craftoria.AssemblyInfoInputs.cache
+C:\Users\Jayson\OneDrive\Desktop\repos\Craftoria\Craftoria\obj\Debug\net8.0\Craftoria.AssemblyInfo.cs
+C:\Users\Jayson\OneDrive\Desktop\repos\Craftoria\Craftoria\obj\Debug\net8.0\Craftoria.csproj.CoreCompileInputs.cache
