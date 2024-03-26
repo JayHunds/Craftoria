@@ -2,3 +2,14 @@ C:\Users\Jayson\OneDrive\Desktop\repos\Craftoria\Craftoria\obj\Debug\net8.0\Craf
 C:\Users\Jayson\OneDrive\Desktop\repos\Craftoria\Craftoria\obj\Debug\net8.0\Craftoria.AssemblyInfoInputs.cache
 C:\Users\Jayson\OneDrive\Desktop\repos\Craftoria\Craftoria\obj\Debug\net8.0\Craftoria.AssemblyInfo.cs
 C:\Users\Jayson\OneDrive\Desktop\repos\Craftoria\Craftoria\obj\Debug\net8.0\Craftoria.csproj.CoreCompileInputs.cache
+C:\Users\Jayson\OneDrive\Desktop\repos\Craftoria\Craftoria\obj\Debug\net8.0\Craftoria.sourcelink.json
+C:\Users\Jayson\OneDrive\Desktop\repos\Craftoria\Craftoria\bin\Debug\net8.0\Craftoria.exe
+C:\Users\Jayson\OneDrive\Desktop\repos\Craftoria\Craftoria\bin\Debug\net8.0\Craftoria.deps.json
+C:\Users\Jayson\OneDrive\Desktop\repos\Craftoria\Craftoria\bin\Debug\net8.0\Craftoria.runtimeconfig.json
+C:\Users\Jayson\OneDrive\Desktop\repos\Craftoria\Craftoria\bin\Debug\net8.0\Craftoria.dll
+C:\Users\Jayson\OneDrive\Desktop\repos\Craftoria\Craftoria\bin\Debug\net8.0\Craftoria.pdb
+C:\Users\Jayson\OneDrive\Desktop\repos\Craftoria\Craftoria\obj\Debug\net8.0\Craftoria.dll
+C:\Users\Jayson\OneDrive\Desktop\repos\Craftoria\Craftoria\obj\Debug\net8.0\refint\Craftoria.dll
+C:\Users\Jayson\OneDrive\Desktop\repos\Craftoria\Craftoria\obj\Debug\net8.0\Craftoria.pdb
+C:\Users\Jayson\OneDrive\Desktop\repos\Craftoria\Craftoria\obj\Debug\net8.0\Craftoria.genruntimeconfig.cache
+C:\Users\Jayson\OneDrive\Desktop\repos\Craftoria\Craftoria\obj\Debug\net8.0\ref\Craftoria.dll

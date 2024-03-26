@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Craftoria")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39f7fc0753a52b4839fe03c22488f915521357a1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0eec602ef17f0172ad67fd512aece8dbdc2be8a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Craftoria")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Craftoria")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

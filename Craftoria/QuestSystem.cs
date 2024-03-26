@@ -86,7 +86,7 @@ namespace Craftoria
                 Console.WriteLine("NPC: Thank you so much!");
                 Thread.Sleep(4000);
                 Console.WriteLine("You found the lost family heirloom!");
-                GameEngine.PlayerInventory = InventorySystem.AddToInventory("Family Heirloom", GameEngine.PlayerInventory);
+                GameEngine.playerInventory = InventorySystem.AddToInventory("Family Heirloom", GameEngine.playerInventory);
                 Console.WriteLine("You returned the heirloom to the NPC.");
             }
             else
@@ -95,7 +95,7 @@ namespace Craftoria
             }
         }
 
-        private static void HelpLostTraveler()
+        public static void HelpLostTraveler()
         {
             Console.WriteLine("Quest: A traveler has lost their way. Can you guide them back to safety?");
             Console.Write("Will you accept this quest? (yes/no): ");

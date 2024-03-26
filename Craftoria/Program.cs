@@ -4,7 +4,7 @@ using System.Threading;
 
 public static class GameEngine
 {
-    public static int playerGold { get; private set; } = 100;
+    public static int playerGold { get; set; } = 100;
     public static string playerName = "";
     public static string[] playerInventory = new string[0];
 
